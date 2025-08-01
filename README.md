@@ -80,8 +80,6 @@ _Confetti and "Wish Granted" celebration_
 _“May all your birthday dreams come true!” message_  
 ![Final Message](assets/screenshots/10_Wish_Final_Message.png)
 
-
-
 ---
 
 ## 🎬 Demo Video
@@ -89,11 +87,6 @@ _“May all your birthday dreams come true!” message_
 📺 Click below to **watch/download the full project demo**:
 
 ➡️ [View Full Demo](assets/demo/Full_Demo_Project.mp4)
-
-<video width="100%" controls>
-  <source src="assets/demo/Full_Demo_Project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
