@@ -93,6 +93,6 @@ _“May all your birthday dreams come true!” message_
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/DhanushKrishna07/BirthdaySpark.git
-cd BirthdaySpark
+git clone https://github.com/DhanushKrishna07/birthday-spark.git
+cd birthday-spark
 # Open index.html in your browser
