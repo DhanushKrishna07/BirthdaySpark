@@ -1,6 +1,6 @@
 # 🎂 BirthdaySpark – A Dynamic Web Experience for Celebrating Special Days 💖
 
-**BirthdaySpark** is an interactive, animated birthday celebration website built using HTML, CSS, and JavaScript. It begins with a surprise greeting and guides the user through a multi-layered cake with blowable candles, a photo gallery showcasing memorable moments, magical wish popups, and festive animations like confetti, floating emojis, and sound effects — delivering a joyful and immersive birthday experience through the browser.
+**BirthdaySpark** is an interactive, animated birthday celebration website built using HTML, CSS, and JavaScript. It begins with a surprise greeting and guides the user through a multi-layered cake with blowable candles, a tribute gallery showcasing memorable moments, magical wish popups, and festive animations like confetti, floating emojis, and sound effects — delivering a joyful and immersive birthday experience through the browser.
 
 ---
 
